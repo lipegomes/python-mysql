@@ -1,7 +1,6 @@
 from getpass import getpass
 from mysql.connector import connect, Error
 
-# https://realpython.com/python-mysql/
 # Establishing a connection with MySQL
 try:
     with connect(
@@ -10,14 +9,14 @@ try:
         password=getpass("Enter password: "),
         database="online_movie_rating",
     ) as connection:
-    # Create tables in MySQL
+        # Create tables in MySQL
         create_movies_table_query = """
         CREATE TABLE movies(
             id INT AUTO_INCREMENT PRIMARY KEY,
             title VARCHAR(100),
             release_year YEAR(4),
             genre VARCHAR(100),
-            collection_in_mil INT
+            rate INT
         )
         """
         create_reviewers_table_query = """
