@@ -12,11 +12,11 @@ Studies on how to generate a connection to MySQL using python.
 
 - [Git](https://git-scm.com/)
 
-### Programming language
+### Programming language:
 
 - [Python](https://www.python.org/)
 
-### Data Bases:
+### Data Base:
 
 - [MySQL](https://www.mysql.com/)
 
