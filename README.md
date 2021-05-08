@@ -8,7 +8,7 @@ Studies on how to generate a connection to MySQL using python.
 - [Dbeaver](https://dbeaver.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### Tools:
+### Tool:
 
 - [Git](https://git-scm.com/)
 
@@ -19,11 +19,3 @@ Studies on how to generate a connection to MySQL using python.
 ### Data Base:
 
 - [MySQL](https://www.mysql.com/)
-
-### Author
-
-- **Filipe Gomes** - [LinkedIn](https://www.linkedin.com/in/lipegomes/)
-
-## License
-
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE](https://github.com/lipegomes/python-mysql/blob/main/LICENSE) para mais informações
